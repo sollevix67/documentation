@@ -63,7 +63,7 @@ are listed below for commonly supported systems.
 ::: warning Check your Kernel
 Please be aware that some hosts install a modified kernel that does not support important docker features. Please
 check your kernel by running `uname -r`. If your kernel ends in `-xxxx-grs-ipv6-64` or `-xxxx-mod-std-ipv6-64` you're
-probably using a non-supported kernel. Check our [Kernel Modifications](kernel_modifications.md) guide for details.
+probably using a non-supported kernel. Check our [Kernel Modifications](missing kernel_modifications.md file) guide for details.
 :::
 
 #### Start Docker on Boot
